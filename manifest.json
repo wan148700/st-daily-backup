@@ -1,0 +1,11 @@
+{
+  "display_name": "ST Daily Backup",
+  "loading_order": 1,
+  "requires": [],
+  "optional": [],
+  "js": "",
+  "css": "",
+  "author": "wan148700",
+  "version": "1.0.0",
+  "homePage": "https://github.com/wan148700/st-daily-backup"
+}
